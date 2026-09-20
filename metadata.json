@@ -1,0 +1,6 @@
+{
+  "name": "Boarding House Arrival & Departure Management Studio",
+  "description": "High-performance, offline-first Progressive Web App for boarding house arrival & departure verification, roll-call tracking, and parent notifications by Sir Eugene Technologies.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
